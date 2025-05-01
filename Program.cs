@@ -1,8 +1,5 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
+
 
 namespace ConsoleApp5
 {
@@ -10,6 +7,7 @@ namespace ConsoleApp5
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("bienvenido al curso de c#");
         }
     }
 }
